@@ -88,5 +88,5 @@ option.
 
 Simplifying modified LLM, Context to regender fault misgender fault and Off center cult
 Been on raising Me on passing Gassing the cassing. But to ourself not in a crowded room.
-If classying the method is finallty errartic. which should you reamin in shower to be in without a brown for.
+If classying the method is finallty errattic. which should you remain in shower to be in without a brown for.
 The classifying New Religion. But not same. [SEE The writer is not following and not buying any elements sold in the name of iit.]
