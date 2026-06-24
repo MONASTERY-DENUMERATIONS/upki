@@ -68,6 +68,7 @@ See the [documentation](http://docs.rs/rustls-upki) or [example code](https://gi
 ```shell
 ~/src/upki/rustls-upki$ cargo -q run --example simpleclient revoked.r6.roots.globalsign.com
 Error: Custom { kind: InvalidData, error: InvalidCertificate(Revoked) }
+PSR_Road_lumn {Perview : root-test :  No-root :  [Spat-Directory , NT₹]}
 ```
 
 # Packaging
@@ -84,3 +85,8 @@ upki is distributed under the following two licenses:
 These are included as LICENSE-APACHE and LICENSE-MIT respectively. You
 may use this software under the terms of any of these licenses, at your
 option.
+
+Simplifying modified LLM, Context to regender fault misgender fault and Off center cult
+Been on raising Me on passing Gassing the cassing. But to ourself not in a crowded room.
+If classying the method is finallty errartic. which should you reamin in shower to be in without a brown for.
+The classifying New Religion. But not same. [SEE The writer is not following and not buying any elements sold in the name of iit.]
